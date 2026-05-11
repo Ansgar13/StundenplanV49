@@ -38,7 +38,7 @@ entwickelt mit C#, WPF und Google OR-Tools.
 
 \- Microsoft Excel oder ein kompatibles Programm (zum Öffnen der Ergebnisse)
 
-\- .NET 8 Runtime
+\- .NET 8 Runtime nur für Arbeit am Quellcode nötig. Exe-Datei läuft auch so.
 
 
 
@@ -50,7 +50,7 @@ entwickelt mit C#, WPF und Google OR-Tools.
 
 &#x20;  die aktuelle `Stundenplan\_V14.exe` herunterladen
 
-2\. EXE starten – keine Installation nötig
+2\. EXE starten – keine weiteren Installationen nötig
 
 
 
